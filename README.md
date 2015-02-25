@@ -1,0 +1,2 @@
+# backtracking
+recursiv + iterativ
